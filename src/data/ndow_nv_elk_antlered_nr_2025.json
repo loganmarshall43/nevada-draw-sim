@@ -1,0 +1,11697 @@
+[
+  {
+    "state": "NV",
+    "year": 2025,
+    "residency": "NR",
+    "species": "elk",
+    "category": "antlered",
+    "title": "NR Elk Antlered",
+    "units": "061, 071",
+    "season": "Oct 05, 2025 - Oct 21, 2025",
+    "quota": 1,
+    "weapon": "Any Legal",
+    "rows": [
+      {
+        "bp": 0,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          60,
+          26,
+          28,
+          13,
+          14
+        ],
+        "totalApplicants": 141
+      },
+      {
+        "bp": 1,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          37,
+          15,
+          19,
+          7,
+          14
+        ],
+        "totalApplicants": 92
+      },
+      {
+        "bp": 2,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          41,
+          22,
+          20,
+          10,
+          12
+        ],
+        "totalApplicants": 105
+      },
+      {
+        "bp": 3,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          49,
+          14,
+          28,
+          8,
+          11
+        ],
+        "totalApplicants": 110
+      },
+      {
+        "bp": 4,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          33,
+          29,
+          20,
+          11,
+          16
+        ],
+        "totalApplicants": 109
+      },
+      {
+        "bp": 5,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          31,
+          23,
+          21,
+          18,
+          9
+        ],
+        "totalApplicants": 102
+      },
+      {
+        "bp": 6,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          34,
+          13,
+          18,
+          13,
+          14
+        ],
+        "totalApplicants": 92
+      },
+      {
+        "bp": 7,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          34,
+          11,
+          26,
+          7,
+          10
+        ],
+        "totalApplicants": 88
+      },
+      {
+        "bp": 8,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          31,
+          3,
+          14,
+          10,
+          13
+        ],
+        "totalApplicants": 71
+      },
+      {
+        "bp": 9,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          13,
+          8,
+          10,
+          6,
+          3
+        ],
+        "totalApplicants": 40
+      },
+      {
+        "bp": 10,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          11,
+          5,
+          5,
+          7,
+          4
+        ],
+        "totalApplicants": 32
+      },
+      {
+        "bp": 11,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          8,
+          6,
+          4,
+          5,
+          6
+        ],
+        "totalApplicants": 29
+      },
+      {
+        "bp": 12,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          7,
+          5,
+          4,
+          7,
+          0
+        ],
+        "totalApplicants": 23
+      },
+      {
+        "bp": 13,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          7,
+          4,
+          5,
+          1,
+          2
+        ],
+        "totalApplicants": 19
+      },
+      {
+        "bp": 14,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          10,
+          0,
+          5,
+          5,
+          7
+        ],
+        "totalApplicants": 27
+      },
+      {
+        "bp": 15,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          2,
+          0,
+          0,
+          1
+        ],
+        "totalApplicants": 4
+      },
+      {
+        "bp": 16,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          9,
+          4,
+          6,
+          4,
+          2
+        ],
+        "totalApplicants": 25
+      },
+      {
+        "bp": 17,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          0,
+          1,
+          4,
+          1
+        ],
+        "totalApplicants": 8
+      },
+      {
+        "bp": 18,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          10,
+          4,
+          2,
+          0,
+          4
+        ],
+        "totalApplicants": 20
+      },
+      {
+        "bp": 19,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          7,
+          1,
+          0,
+          0,
+          1
+        ],
+        "totalApplicants": 9
+      },
+      {
+        "bp": 20,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          2,
+          1,
+          0,
+          3
+        ],
+        "totalApplicants": 7
+      },
+      {
+        "bp": 21,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          0,
+          1,
+          2,
+          0
+        ],
+        "totalApplicants": 4
+      },
+      {
+        "bp": 22,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          1,
+          0,
+          2,
+          0
+        ],
+        "totalApplicants": 6
+      },
+      {
+        "bp": 23,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          7,
+          0,
+          1,
+          0,
+          0
+        ],
+        "totalApplicants": 8
+      },
+      {
+        "bp": 24,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 25,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "totalApplicants": 2
+      },
+      {
+        "bp": 27,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 29,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalApplicants": 1
+      }
+    ],
+    "sourcePdf": "https://www.ndow.org/wp-content/uploads/2026/01/Elk-Antlered-ALW-Bonus-Point-and-Application-Trend-NonResident-2025.pdf",
+    "startPage": 1,
+    "endPage": 1
+  },
+  {
+    "state": "NV",
+    "year": 2025,
+    "residency": "NR",
+    "species": "elk",
+    "category": "antlered",
+    "title": "NR Elk Antlered",
+    "units": "061, 071",
+    "season": "Oct 22, 2025 - Nov 05, 2025",
+    "quota": 2,
+    "weapon": "Any Legal",
+    "rows": [
+      {
+        "bp": 0,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          31,
+          40,
+          15,
+          19,
+          17
+        ],
+        "totalApplicants": 122
+      },
+      {
+        "bp": 1,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          18,
+          16,
+          13,
+          12,
+          12
+        ],
+        "totalApplicants": 71
+      },
+      {
+        "bp": 2,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          16,
+          20,
+          18,
+          13,
+          15
+        ],
+        "totalApplicants": 82
+      },
+      {
+        "bp": 3,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          15,
+          29,
+          10,
+          17,
+          8
+        ],
+        "totalApplicants": 79
+      },
+      {
+        "bp": 4,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          15,
+          18,
+          15,
+          8,
+          13
+        ],
+        "totalApplicants": 69
+      },
+      {
+        "bp": 5,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          11,
+          24,
+          16,
+          11,
+          14
+        ],
+        "totalApplicants": 76
+      },
+      {
+        "bp": 6,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          13,
+          16,
+          11,
+          12,
+          10
+        ],
+        "totalApplicants": 62
+      },
+      {
+        "bp": 7,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          6,
+          18,
+          7,
+          9,
+          7
+        ],
+        "totalApplicants": 47
+      },
+      {
+        "bp": 8,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          5,
+          15,
+          7,
+          7,
+          4
+        ],
+        "totalApplicants": 38
+      },
+      {
+        "bp": 9,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          4,
+          3,
+          3,
+          4
+        ],
+        "totalApplicants": 17
+      },
+      {
+        "bp": 10,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          4,
+          7,
+          4,
+          3,
+          4
+        ],
+        "totalApplicants": 22
+      },
+      {
+        "bp": 11,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          2,
+          4,
+          3,
+          2
+        ],
+        "totalApplicants": 13
+      },
+      {
+        "bp": 12,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          2,
+          4,
+          2,
+          2
+        ],
+        "totalApplicants": 11
+      },
+      {
+        "bp": 13,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          5,
+          3,
+          2,
+          0,
+          1
+        ],
+        "totalApplicants": 11
+      },
+      {
+        "bp": 14,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          2,
+          2,
+          0,
+          1
+        ],
+        "totalApplicants": 6
+      },
+      {
+        "bp": 15,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          1,
+          0,
+          3
+        ],
+        "totalApplicants": 4
+      },
+      {
+        "bp": 16,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          1,
+          0,
+          2,
+          0
+        ],
+        "totalApplicants": 4
+      },
+      {
+        "bp": 17,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          3,
+          1,
+          0,
+          2
+        ],
+        "totalApplicants": 6
+      },
+      {
+        "bp": 18,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          0,
+          1,
+          1,
+          1
+        ],
+        "totalApplicants": 4
+      },
+      {
+        "bp": 19,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          1,
+          0,
+          1,
+          0
+        ],
+        "totalApplicants": 3
+      },
+      {
+        "bp": 20,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 21,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 29,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "totalApplicants": 1
+      }
+    ],
+    "sourcePdf": "https://www.ndow.org/wp-content/uploads/2026/01/Elk-Antlered-ALW-Bonus-Point-and-Application-Trend-NonResident-2025.pdf",
+    "startPage": 1,
+    "endPage": 2
+  },
+  {
+    "state": "NV",
+    "year": 2025,
+    "residency": "NR",
+    "species": "elk",
+    "category": "antlered",
+    "title": "NR Elk Antlered",
+    "units": "062, 064, 066 - 068",
+    "season": "Oct 22, 2025 - Nov 05, 2025",
+    "quota": 3,
+    "weapon": "Any Legal",
+    "rows": [
+      {
+        "bp": 0,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          51,
+          44,
+          34,
+          22,
+          31
+        ],
+        "totalApplicants": 182
+      },
+      {
+        "bp": 1,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          22,
+          24,
+          15,
+          13,
+          12
+        ],
+        "totalApplicants": 86
+      },
+      {
+        "bp": 2,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          27,
+          24,
+          19,
+          9,
+          10
+        ],
+        "totalApplicants": 89
+      },
+      {
+        "bp": 3,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          21,
+          30,
+          18,
+          6,
+          9
+        ],
+        "totalApplicants": 84
+      },
+      {
+        "bp": 4,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          24,
+          18,
+          13,
+          7,
+          11
+        ],
+        "totalApplicants": 73
+      },
+      {
+        "bp": 5,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          28,
+          12,
+          14,
+          15,
+          13
+        ],
+        "totalApplicants": 82
+      },
+      {
+        "bp": 6,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          16,
+          16,
+          5,
+          14,
+          11
+        ],
+        "totalApplicants": 62
+      },
+      {
+        "bp": 7,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          11,
+          17,
+          10,
+          4,
+          6
+        ],
+        "totalApplicants": 48
+      },
+      {
+        "bp": 8,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          4,
+          10,
+          4,
+          7,
+          3
+        ],
+        "totalApplicants": 28
+      },
+      {
+        "bp": 9,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          5,
+          2,
+          3,
+          3,
+          5
+        ],
+        "totalApplicants": 18
+      },
+      {
+        "bp": 10,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          8,
+          2,
+          4,
+          4,
+          9
+        ],
+        "totalApplicants": 27
+      },
+      {
+        "bp": 11,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          6,
+          8,
+          8,
+          2,
+          4
+        ],
+        "totalApplicants": 28
+      },
+      {
+        "bp": 12,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          8,
+          2,
+          2,
+          2,
+          0
+        ],
+        "totalApplicants": 14
+      },
+      {
+        "bp": 13,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          0,
+          4,
+          1,
+          1
+        ],
+        "totalApplicants": 9
+      },
+      {
+        "bp": 14,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          3,
+          0,
+          1,
+          2
+        ],
+        "totalApplicants": 7
+      },
+      {
+        "bp": 15,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          0,
+          0,
+          1,
+          0
+        ],
+        "totalApplicants": 2
+      },
+      {
+        "bp": 16,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          1,
+          4,
+          0,
+          0
+        ],
+        "totalApplicants": 6
+      },
+      {
+        "bp": 17,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          1,
+          1,
+          2
+        ],
+        "totalApplicants": 4
+      },
+      {
+        "bp": 18,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          0,
+          0,
+          2
+        ],
+        "totalApplicants": 3
+      },
+      {
+        "bp": 19,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          1,
+          2,
+          1,
+          0
+        ],
+        "totalApplicants": 5
+      },
+      {
+        "bp": 21,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 22,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 23,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 25,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 26,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalApplicants": 1
+      }
+    ],
+    "sourcePdf": "https://www.ndow.org/wp-content/uploads/2026/01/Elk-Antlered-ALW-Bonus-Point-and-Application-Trend-NonResident-2025.pdf",
+    "startPage": 2,
+    "endPage": 3
+  },
+  {
+    "state": "NV",
+    "year": 2025,
+    "residency": "NR",
+    "species": "elk",
+    "category": "antlered",
+    "title": "NR Elk Antlered",
+    "units": "072 - 074",
+    "season": "Oct 22, 2025 - Nov 05, 2025",
+    "quota": 3,
+    "weapon": "Any Legal",
+    "rows": [
+      {
+        "bp": 0,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          45,
+          42,
+          39,
+          34,
+          18
+        ],
+        "totalApplicants": 178
+      },
+      {
+        "bp": 1,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          30,
+          24,
+          23,
+          16,
+          15
+        ],
+        "totalApplicants": 108
+      },
+      {
+        "bp": 2,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          34,
+          29,
+          34,
+          23,
+          6
+        ],
+        "totalApplicants": 126
+      },
+      {
+        "bp": 3,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          33,
+          26,
+          30,
+          13,
+          17
+        ],
+        "totalApplicants": 119
+      },
+      {
+        "bp": 4,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          37,
+          20,
+          26,
+          29,
+          12
+        ],
+        "totalApplicants": 124
+      },
+      {
+        "bp": 5,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          34,
+          23,
+          33,
+          16,
+          9
+        ],
+        "totalApplicants": 115
+      },
+      {
+        "bp": 6,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          25,
+          13,
+          15,
+          18,
+          11
+        ],
+        "totalApplicants": 82
+      },
+      {
+        "bp": 7,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          26,
+          15,
+          24,
+          14,
+          15
+        ],
+        "totalApplicants": 94
+      },
+      {
+        "bp": 8,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          17,
+          15,
+          8,
+          11,
+          9
+        ],
+        "totalApplicants": 60
+      },
+      {
+        "bp": 9,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          10,
+          4,
+          15,
+          3,
+          4
+        ],
+        "totalApplicants": 36
+      },
+      {
+        "bp": 10,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          10,
+          9,
+          7,
+          3,
+          3
+        ],
+        "totalApplicants": 32
+      },
+      {
+        "bp": 11,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          11,
+          10,
+          9,
+          4,
+          4
+        ],
+        "totalApplicants": 38
+      },
+      {
+        "bp": 12,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          4,
+          7,
+          7,
+          2,
+          1
+        ],
+        "totalApplicants": 21
+      },
+      {
+        "bp": 13,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          9,
+          1,
+          1,
+          2,
+          1
+        ],
+        "totalApplicants": 14
+      },
+      {
+        "bp": 14,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          2,
+          3,
+          3,
+          4
+        ],
+        "totalApplicants": 14
+      },
+      {
+        "bp": 15,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          0,
+          0,
+          4,
+          0
+        ],
+        "totalApplicants": 6
+      },
+      {
+        "bp": 16,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          0,
+          4,
+          0,
+          1
+        ],
+        "totalApplicants": 8
+      },
+      {
+        "bp": 17,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          2,
+          2,
+          0,
+          0
+        ],
+        "totalApplicants": 5
+      },
+      {
+        "bp": 18,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          3,
+          0,
+          1,
+          1
+        ],
+        "totalApplicants": 6
+      },
+      {
+        "bp": 19,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        "totalApplicants": 3
+      },
+      {
+        "bp": 20,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          2,
+          0,
+          1
+        ],
+        "totalApplicants": 4
+      },
+      {
+        "bp": 21,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          2,
+          1,
+          0,
+          0
+        ],
+        "totalApplicants": 4
+      },
+      {
+        "bp": 23,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 24,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 25,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "totalApplicants": 1
+      }
+    ],
+    "sourcePdf": "https://www.ndow.org/wp-content/uploads/2026/01/Elk-Antlered-ALW-Bonus-Point-and-Application-Trend-NonResident-2025.pdf",
+    "startPage": 3,
+    "endPage": 3
+  },
+  {
+    "state": "NV",
+    "year": 2025,
+    "residency": "NR",
+    "species": "elk",
+    "category": "antlered",
+    "title": "NR Elk Antlered",
+    "units": "072 - 074",
+    "season": "Nov 06, 2025 - Nov 20, 2025",
+    "quota": 4,
+    "weapon": "Any Legal",
+    "rows": [
+      {
+        "bp": 0,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          20,
+          38,
+          31,
+          28,
+          30
+        ],
+        "totalApplicants": 147
+      },
+      {
+        "bp": 1,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          17,
+          19,
+          13,
+          18,
+          20
+        ],
+        "totalApplicants": 87
+      },
+      {
+        "bp": 2,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          22,
+          30,
+          20,
+          24,
+          23
+        ],
+        "totalApplicants": 119
+      },
+      {
+        "bp": 3,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          25,
+          31,
+          17,
+          30,
+          18
+        ],
+        "totalApplicants": 121
+      },
+      {
+        "bp": 4,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          18,
+          22,
+          16,
+          11,
+          15
+        ],
+        "totalApplicants": 82
+      },
+      {
+        "bp": 5,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          28,
+          29,
+          12,
+          10,
+          22
+        ],
+        "totalApplicants": 101
+      },
+      {
+        "bp": 6,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          10,
+          22,
+          12,
+          13,
+          10
+        ],
+        "totalApplicants": 67
+      },
+      {
+        "bp": 7,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          9,
+          16,
+          15,
+          19,
+          7
+        ],
+        "totalApplicants": 66
+      },
+      {
+        "bp": 8,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          8,
+          7,
+          11,
+          14,
+          12
+        ],
+        "totalApplicants": 52
+      },
+      {
+        "bp": 9,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          5,
+          5,
+          2,
+          12,
+          3
+        ],
+        "totalApplicants": 27
+      },
+      {
+        "bp": 10,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          7,
+          5,
+          8,
+          5,
+          3
+        ],
+        "totalApplicants": 28
+      },
+      {
+        "bp": 11,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          4,
+          6,
+          8,
+          6,
+          2
+        ],
+        "totalApplicants": 26
+      },
+      {
+        "bp": 12,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          4,
+          4,
+          3,
+          4
+        ],
+        "totalApplicants": 16
+      },
+      {
+        "bp": 13,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          3,
+          1,
+          1,
+          0
+        ],
+        "totalApplicants": 8
+      },
+      {
+        "bp": 14,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          1,
+          2,
+          2,
+          1
+        ],
+        "totalApplicants": 7
+      },
+      {
+        "bp": 15,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          2,
+          2,
+          2,
+          2
+        ],
+        "totalApplicants": 8
+      },
+      {
+        "bp": 16,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          1,
+          2,
+          0
+        ],
+        "totalApplicants": 3
+      },
+      {
+        "bp": 17,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          0,
+          2,
+          1,
+          1
+        ],
+        "totalApplicants": 5
+      },
+      {
+        "bp": 18,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          1,
+          0,
+          0,
+          0
+        ],
+        "totalApplicants": 3
+      },
+      {
+        "bp": 19,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          0,
+          0,
+          1,
+          1
+        ],
+        "totalApplicants": 3
+      },
+      {
+        "bp": 20,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          1,
+          1,
+          0
+        ],
+        "totalApplicants": 3
+      },
+      {
+        "bp": 21,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          1,
+          1,
+          0
+        ],
+        "totalApplicants": 2
+      },
+      {
+        "bp": 22,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "totalApplicants": 1
+      }
+    ],
+    "sourcePdf": "https://www.ndow.org/wp-content/uploads/2026/01/Elk-Antlered-ALW-Bonus-Point-and-Application-Trend-NonResident-2025.pdf",
+    "startPage": 3,
+    "endPage": 4
+  },
+  {
+    "state": "NV",
+    "year": 2025,
+    "residency": "NR",
+    "species": "elk",
+    "category": "antlered",
+    "title": "NR Elk Antlered",
+    "units": "075",
+    "season": "Oct 22, 2025 - Nov 05, 2025",
+    "quota": 1,
+    "weapon": "Any Legal",
+    "rows": [
+      {
+        "bp": 0,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          11,
+          5,
+          17,
+          15,
+          15
+        ],
+        "totalApplicants": 63
+      },
+      {
+        "bp": 1,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          6,
+          5,
+          6,
+          8,
+          12
+        ],
+        "totalApplicants": 37
+      },
+      {
+        "bp": 2,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          7,
+          6,
+          5,
+          9,
+          9
+        ],
+        "totalApplicants": 36
+      },
+      {
+        "bp": 3,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          6,
+          4,
+          7,
+          9,
+          8
+        ],
+        "totalApplicants": 34
+      },
+      {
+        "bp": 4,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          8,
+          6,
+          12,
+          5
+        ],
+        "totalApplicants": 34
+      },
+      {
+        "bp": 5,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          4,
+          4,
+          7,
+          11,
+          7
+        ],
+        "totalApplicants": 33
+      },
+      {
+        "bp": 6,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          8,
+          7,
+          5,
+          8
+        ],
+        "totalApplicants": 30
+      },
+      {
+        "bp": 7,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          4,
+          2,
+          4,
+          6,
+          4
+        ],
+        "totalApplicants": 20
+      },
+      {
+        "bp": 8,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          5,
+          4,
+          5,
+          3,
+          5
+        ],
+        "totalApplicants": 22
+      },
+      {
+        "bp": 9,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          4,
+          6,
+          3,
+          4,
+          3
+        ],
+        "totalApplicants": 20
+      },
+      {
+        "bp": 10,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          0,
+          3,
+          0,
+          1
+        ],
+        "totalApplicants": 5
+      },
+      {
+        "bp": 11,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          0,
+          2,
+          2,
+          2
+        ],
+        "totalApplicants": 8
+      },
+      {
+        "bp": 12,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          0,
+          1,
+          2,
+          0
+        ],
+        "totalApplicants": 4
+      },
+      {
+        "bp": 13,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          1,
+          4,
+          0
+        ],
+        "totalApplicants": 5
+      },
+      {
+        "bp": 14,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          2,
+          3,
+          1,
+          1
+        ],
+        "totalApplicants": 7
+      },
+      {
+        "bp": 15,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          0,
+          2,
+          0,
+          0
+        ],
+        "totalApplicants": 4
+      },
+      {
+        "bp": 16,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          1,
+          0,
+          0,
+          1
+        ],
+        "totalApplicants": 3
+      },
+      {
+        "bp": 17,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          1,
+          0,
+          0,
+          2
+        ],
+        "totalApplicants": 5
+      },
+      {
+        "bp": 18,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          1,
+          1,
+          2
+        ],
+        "totalApplicants": 4
+      },
+      {
+        "bp": 19,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          0,
+          2,
+          0,
+          0
+        ],
+        "totalApplicants": 3
+      },
+      {
+        "bp": 22,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          2,
+          0,
+          0,
+          1
+        ],
+        "totalApplicants": 3
+      },
+      {
+        "bp": 23,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "totalApplicants": 1
+      }
+    ],
+    "sourcePdf": "https://www.ndow.org/wp-content/uploads/2026/01/Elk-Antlered-ALW-Bonus-Point-and-Application-Trend-NonResident-2025.pdf",
+    "startPage": 4,
+    "endPage": 4
+  },
+  {
+    "state": "NV",
+    "year": 2025,
+    "residency": "NR",
+    "species": "elk",
+    "category": "antlered",
+    "title": "NR Elk Antlered",
+    "units": "075",
+    "season": "Nov 06, 2025 - Nov 20, 2025",
+    "quota": 1,
+    "weapon": "Any Legal",
+    "rows": [
+      {
+        "bp": 0,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          8,
+          7,
+          12,
+          12,
+          20
+        ],
+        "totalApplicants": 59
+      },
+      {
+        "bp": 1,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          8,
+          9,
+          5,
+          8
+        ],
+        "totalApplicants": 33
+      },
+      {
+        "bp": 2,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          12,
+          3,
+          8,
+          11,
+          10
+        ],
+        "totalApplicants": 44
+      },
+      {
+        "bp": 3,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          6,
+          7,
+          8,
+          11
+        ],
+        "totalApplicants": 32
+      },
+      {
+        "bp": 4,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          4,
+          2,
+          4,
+          7,
+          4
+        ],
+        "totalApplicants": 21
+      },
+      {
+        "bp": 5,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          3,
+          7,
+          4,
+          6
+        ],
+        "totalApplicants": 23
+      },
+      {
+        "bp": 6,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          4,
+          7,
+          3,
+          10,
+          6
+        ],
+        "totalApplicants": 30
+      },
+      {
+        "bp": 7,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          2,
+          4,
+          5,
+          0
+        ],
+        "totalApplicants": 14
+      },
+      {
+        "bp": 8,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          4,
+          4,
+          1,
+          5
+        ],
+        "totalApplicants": 17
+      },
+      {
+        "bp": 9,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          2,
+          2,
+          1,
+          4
+        ],
+        "totalApplicants": 10
+      },
+      {
+        "bp": 10,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          1,
+          5,
+          4
+        ],
+        "totalApplicants": 10
+      },
+      {
+        "bp": 11,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          3,
+          0,
+          0,
+          2
+        ],
+        "totalApplicants": 5
+      },
+      {
+        "bp": 12,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          2,
+          2,
+          0,
+          1
+        ],
+        "totalApplicants": 6
+      },
+      {
+        "bp": 13,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          1,
+          1,
+          2
+        ],
+        "totalApplicants": 5
+      },
+      {
+        "bp": 14,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          0,
+          1,
+          1,
+          2
+        ],
+        "totalApplicants": 5
+      },
+      {
+        "bp": 15,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "totalApplicants": 5
+      },
+      {
+        "bp": 16,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          0,
+          0,
+          1,
+          0
+        ],
+        "totalApplicants": 2
+      },
+      {
+        "bp": 17,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        "totalApplicants": 2
+      },
+      {
+        "bp": 18,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          1,
+          1,
+          0,
+          0
+        ],
+        "totalApplicants": 4
+      },
+      {
+        "bp": 19,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          0,
+          1,
+          0
+        ],
+        "totalApplicants": 2
+      },
+      {
+        "bp": 20,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 21,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 22,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalApplicants": 1
+      }
+    ],
+    "sourcePdf": "https://www.ndow.org/wp-content/uploads/2026/01/Elk-Antlered-ALW-Bonus-Point-and-Application-Trend-NonResident-2025.pdf",
+    "startPage": 4,
+    "endPage": 5
+  },
+  {
+    "state": "NV",
+    "year": 2025,
+    "residency": "NR",
+    "species": "elk",
+    "category": "antlered",
+    "title": "NR Elk Antlered",
+    "units": "076, 077, 079, 081",
+    "season": "Nov 06, 2025 - Nov 20, 2025",
+    "quota": 8,
+    "weapon": "Any Legal",
+    "rows": [
+      {
+        "bp": 0,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          94,
+          52,
+          64,
+          77,
+          40
+        ],
+        "totalApplicants": 327
+      },
+      {
+        "bp": 1,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          61,
+          38,
+          49,
+          46,
+          33
+        ],
+        "totalApplicants": 227
+      },
+      {
+        "bp": 2,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          58,
+          41,
+          39,
+          48,
+          32
+        ],
+        "totalApplicants": 218
+      },
+      {
+        "bp": 3,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          71,
+          40,
+          30,
+          47,
+          25
+        ],
+        "totalApplicants": 213
+      },
+      {
+        "bp": 4,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          52,
+          33,
+          37,
+          47,
+          27
+        ],
+        "totalApplicants": 196
+      },
+      {
+        "bp": 5,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          51,
+          24,
+          44,
+          33,
+          26
+        ],
+        "totalApplicants": 178
+      },
+      {
+        "bp": 6,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          43,
+          33,
+          42,
+          34,
+          26
+        ],
+        "totalApplicants": 178
+      },
+      {
+        "bp": 7,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          35,
+          15,
+          24,
+          35,
+          26
+        ],
+        "totalApplicants": 135
+      },
+      {
+        "bp": 8,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          27,
+          14,
+          25,
+          26,
+          16
+        ],
+        "totalApplicants": 108
+      },
+      {
+        "bp": 9,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          26,
+          16,
+          15,
+          13,
+          16
+        ],
+        "totalApplicants": 86
+      },
+      {
+        "bp": 10,
+        "successfulByChoice": [
+          2,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          16,
+          12,
+          16,
+          13,
+          13
+        ],
+        "totalApplicants": 70
+      },
+      {
+        "bp": 11,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          21,
+          10,
+          9,
+          13,
+          21
+        ],
+        "totalApplicants": 74
+      },
+      {
+        "bp": 12,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          10,
+          8,
+          5,
+          8,
+          7
+        ],
+        "totalApplicants": 38
+      },
+      {
+        "bp": 13,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          8,
+          5,
+          10,
+          5,
+          9
+        ],
+        "totalApplicants": 37
+      },
+      {
+        "bp": 14,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          12,
+          8,
+          5,
+          12,
+          7
+        ],
+        "totalApplicants": 44
+      },
+      {
+        "bp": 15,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          13,
+          4,
+          7,
+          3,
+          2
+        ],
+        "totalApplicants": 29
+      },
+      {
+        "bp": 16,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          7,
+          4,
+          3,
+          5,
+          7
+        ],
+        "totalApplicants": 26
+      },
+      {
+        "bp": 17,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          6,
+          4,
+          4,
+          4,
+          7
+        ],
+        "totalApplicants": 25
+      },
+      {
+        "bp": 18,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          7,
+          6,
+          3,
+          7,
+          3
+        ],
+        "totalApplicants": 26
+      },
+      {
+        "bp": 19,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          4,
+          2,
+          1,
+          4,
+          3
+        ],
+        "totalApplicants": 14
+      },
+      {
+        "bp": 20,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          2,
+          2,
+          3,
+          5
+        ],
+        "totalApplicants": 15
+      },
+      {
+        "bp": 21,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          4,
+          3,
+          2,
+          1,
+          5
+        ],
+        "totalApplicants": 15
+      },
+      {
+        "bp": 22,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          1,
+          1,
+          3,
+          0
+        ],
+        "totalApplicants": 8
+      },
+      {
+        "bp": 23,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          5,
+          1,
+          4,
+          0,
+          1
+        ],
+        "totalApplicants": 11
+      },
+      {
+        "bp": 24,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          1,
+          0,
+          1
+        ],
+        "totalApplicants": 2
+      },
+      {
+        "bp": 25,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "totalApplicants": 5
+      },
+      {
+        "bp": 26,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          0,
+          2,
+          0
+        ],
+        "totalApplicants": 3
+      },
+      {
+        "bp": 27,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 29,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "totalApplicants": 1
+      }
+    ],
+    "sourcePdf": "https://www.ndow.org/wp-content/uploads/2026/01/Elk-Antlered-ALW-Bonus-Point-and-Application-Trend-NonResident-2025.pdf",
+    "startPage": 5,
+    "endPage": 6
+  },
+  {
+    "state": "NV",
+    "year": 2025,
+    "residency": "NR",
+    "species": "elk",
+    "category": "antlered",
+    "title": "NR Elk Antlered",
+    "units": "076, 077, 079, 081",
+    "season": "Nov 21, 2025 - Dec 04, 2025",
+    "quota": 9,
+    "weapon": "Any Legal",
+    "rows": [
+      {
+        "bp": 0,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          63,
+          69,
+          46,
+          41,
+          59
+        ],
+        "totalApplicants": 278
+      },
+      {
+        "bp": 1,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          32,
+          44,
+          25,
+          26,
+          37
+        ],
+        "totalApplicants": 164
+      },
+      {
+        "bp": 2,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          32,
+          45,
+          20,
+          33,
+          44
+        ],
+        "totalApplicants": 174
+      },
+      {
+        "bp": 3,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          36,
+          53,
+          31,
+          26,
+          32
+        ],
+        "totalApplicants": 178
+      },
+      {
+        "bp": 4,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          21,
+          41,
+          19,
+          39,
+          38
+        ],
+        "totalApplicants": 158
+      },
+      {
+        "bp": 5,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          23,
+          35,
+          20,
+          29,
+          28
+        ],
+        "totalApplicants": 135
+      },
+      {
+        "bp": 6,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          22,
+          36,
+          27,
+          18,
+          33
+        ],
+        "totalApplicants": 136
+      },
+      {
+        "bp": 7,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          18,
+          22,
+          16,
+          23,
+          14
+        ],
+        "totalApplicants": 93
+      },
+      {
+        "bp": 8,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          17,
+          23,
+          14,
+          19,
+          18
+        ],
+        "totalApplicants": 91
+      },
+      {
+        "bp": 9,
+        "successfulByChoice": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          8,
+          20,
+          13,
+          12,
+          10
+        ],
+        "totalApplicants": 63
+      },
+      {
+        "bp": 10,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          20,
+          15,
+          7,
+          6,
+          18
+        ],
+        "totalApplicants": 66
+      },
+      {
+        "bp": 11,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          7,
+          17,
+          6,
+          7,
+          5
+        ],
+        "totalApplicants": 42
+      },
+      {
+        "bp": 12,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          6,
+          7,
+          11,
+          4,
+          7
+        ],
+        "totalApplicants": 35
+      },
+      {
+        "bp": 13,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          4,
+          7,
+          5,
+          9,
+          4
+        ],
+        "totalApplicants": 29
+      },
+      {
+        "bp": 14,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          6,
+          6,
+          4,
+          4,
+          4
+        ],
+        "totalApplicants": 24
+      },
+      {
+        "bp": 15,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          4,
+          4,
+          2,
+          4,
+          4
+        ],
+        "totalApplicants": 18
+      },
+      {
+        "bp": 16,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          6,
+          4,
+          1,
+          1,
+          3
+        ],
+        "totalApplicants": 15
+      },
+      {
+        "bp": 17,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          4,
+          1,
+          4,
+          2
+        ],
+        "totalApplicants": 13
+      },
+      {
+        "bp": 18,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          4,
+          6,
+          3,
+          6,
+          5
+        ],
+        "totalApplicants": 24
+      },
+      {
+        "bp": 19,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          4,
+          0,
+          2,
+          6
+        ],
+        "totalApplicants": 13
+      },
+      {
+        "bp": 20,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          2,
+          0,
+          1,
+          3
+        ],
+        "totalApplicants": 7
+      },
+      {
+        "bp": 21,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          3,
+          2,
+          1,
+          5
+        ],
+        "totalApplicants": 12
+      },
+      {
+        "bp": 22,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          1,
+          0,
+          1
+        ],
+        "totalApplicants": 3
+      },
+      {
+        "bp": 23,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          2,
+          0,
+          4,
+          0
+        ],
+        "totalApplicants": 6
+      },
+      {
+        "bp": 25,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          2,
+          2,
+          1,
+          1
+        ],
+        "totalApplicants": 6
+      },
+      {
+        "bp": 26,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        "totalApplicants": 2
+      },
+      {
+        "bp": 27,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "totalApplicants": 1
+      }
+    ],
+    "sourcePdf": "https://www.ndow.org/wp-content/uploads/2026/01/Elk-Antlered-ALW-Bonus-Point-and-Application-Trend-NonResident-2025.pdf",
+    "startPage": 6,
+    "endPage": 6
+  },
+  {
+    "state": "NV",
+    "year": 2025,
+    "residency": "NR",
+    "species": "elk",
+    "category": "antlered",
+    "title": "NR Elk Antlered",
+    "units": "078, 105 - 107, 109",
+    "season": "Oct 22, 2025 - Nov 05, 2025",
+    "quota": 2,
+    "weapon": "Any Legal",
+    "rows": [
+      {
+        "bp": 0,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          17,
+          8,
+          31,
+          20,
+          26
+        ],
+        "totalApplicants": 102
+      },
+      {
+        "bp": 1,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          7,
+          17,
+          17,
+          7,
+          12
+        ],
+        "totalApplicants": 60
+      },
+      {
+        "bp": 2,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          15,
+          16,
+          15,
+          14,
+          18
+        ],
+        "totalApplicants": 78
+      },
+      {
+        "bp": 3,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          8,
+          10,
+          17,
+          14,
+          14
+        ],
+        "totalApplicants": 63
+      },
+      {
+        "bp": 4,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          9,
+          12,
+          14,
+          14,
+          11
+        ],
+        "totalApplicants": 60
+      },
+      {
+        "bp": 5,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          13,
+          9,
+          11,
+          10,
+          14
+        ],
+        "totalApplicants": 57
+      },
+      {
+        "bp": 6,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          19,
+          17,
+          12,
+          9,
+          7
+        ],
+        "totalApplicants": 64
+      },
+      {
+        "bp": 7,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          7,
+          4,
+          9,
+          4,
+          9
+        ],
+        "totalApplicants": 33
+      },
+      {
+        "bp": 8,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          5,
+          6,
+          11,
+          10,
+          6
+        ],
+        "totalApplicants": 38
+      },
+      {
+        "bp": 9,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          8,
+          5,
+          9,
+          3,
+          6
+        ],
+        "totalApplicants": 31
+      },
+      {
+        "bp": 10,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          8,
+          7,
+          9,
+          7
+        ],
+        "totalApplicants": 33
+      },
+      {
+        "bp": 11,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          9,
+          2,
+          2,
+          3,
+          2
+        ],
+        "totalApplicants": 18
+      },
+      {
+        "bp": 12,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          2,
+          1,
+          2,
+          3
+        ],
+        "totalApplicants": 10
+      },
+      {
+        "bp": 13,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          5,
+          3,
+          3,
+          3,
+          4
+        ],
+        "totalApplicants": 18
+      },
+      {
+        "bp": 14,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          6,
+          5,
+          5,
+          0,
+          2
+        ],
+        "totalApplicants": 18
+      },
+      {
+        "bp": 15,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          6,
+          2,
+          2,
+          2,
+          1
+        ],
+        "totalApplicants": 13
+      },
+      {
+        "bp": 16,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          2,
+          0,
+          0,
+          2
+        ],
+        "totalApplicants": 5
+      },
+      {
+        "bp": 17,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          4,
+          3,
+          1,
+          0
+        ],
+        "totalApplicants": 8
+      },
+      {
+        "bp": 18,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          5,
+          0,
+          6,
+          2,
+          0
+        ],
+        "totalApplicants": 13
+      },
+      {
+        "bp": 19,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          1,
+          1,
+          0,
+          0
+        ],
+        "totalApplicants": 4
+      },
+      {
+        "bp": 20,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          1,
+          2,
+          4,
+          3
+        ],
+        "totalApplicants": 11
+      },
+      {
+        "bp": 21,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          2,
+          1,
+          4,
+          0
+        ],
+        "totalApplicants": 7
+      },
+      {
+        "bp": 22,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          2,
+          1,
+          0
+        ],
+        "totalApplicants": 4
+      },
+      {
+        "bp": 23,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 24,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 25,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          0,
+          0,
+          1
+        ],
+        "totalApplicants": 2
+      }
+    ],
+    "sourcePdf": "https://www.ndow.org/wp-content/uploads/2026/01/Elk-Antlered-ALW-Bonus-Point-and-Application-Trend-NonResident-2025.pdf",
+    "startPage": 6,
+    "endPage": 7
+  },
+  {
+    "state": "NV",
+    "year": 2025,
+    "residency": "NR",
+    "species": "elk",
+    "category": "antlered",
+    "title": "NR Elk Antlered",
+    "units": "078, 105 - 107, 109",
+    "season": "Nov 06, 2025 - Nov 20, 2025",
+    "quota": 2,
+    "weapon": "Any Legal",
+    "rows": [
+      {
+        "bp": 0,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          4,
+          22,
+          18,
+          18,
+          18
+        ],
+        "totalApplicants": 80
+      },
+      {
+        "bp": 1,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          7,
+          13,
+          13,
+          3
+        ],
+        "totalApplicants": 39
+      },
+      {
+        "bp": 2,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          4,
+          13,
+          11,
+          9,
+          8
+        ],
+        "totalApplicants": 45
+      },
+      {
+        "bp": 3,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          9,
+          14,
+          16,
+          9,
+          6
+        ],
+        "totalApplicants": 54
+      },
+      {
+        "bp": 4,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          4,
+          9,
+          12,
+          14,
+          3
+        ],
+        "totalApplicants": 42
+      },
+      {
+        "bp": 5,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          4,
+          9,
+          11,
+          8
+        ],
+        "totalApplicants": 33
+      },
+      {
+        "bp": 6,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          7,
+          11,
+          13,
+          7,
+          9
+        ],
+        "totalApplicants": 47
+      },
+      {
+        "bp": 7,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          7,
+          5,
+          6,
+          5,
+          7
+        ],
+        "totalApplicants": 30
+      },
+      {
+        "bp": 8,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          4,
+          3,
+          5,
+          7,
+          7
+        ],
+        "totalApplicants": 26
+      },
+      {
+        "bp": 9,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          5,
+          4,
+          4,
+          5
+        ],
+        "totalApplicants": 21
+      },
+      {
+        "bp": 10,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          1,
+          2,
+          8,
+          1
+        ],
+        "totalApplicants": 13
+      },
+      {
+        "bp": 11,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          10,
+          5,
+          4,
+          2
+        ],
+        "totalApplicants": 23
+      },
+      {
+        "bp": 12,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          1,
+          1,
+          0,
+          3
+        ],
+        "totalApplicants": 7
+      },
+      {
+        "bp": 13,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          3,
+          4,
+          3,
+          2
+        ],
+        "totalApplicants": 13
+      },
+      {
+        "bp": 14,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          3,
+          2,
+          0
+        ],
+        "totalApplicants": 6
+      },
+      {
+        "bp": 15,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          1,
+          3,
+          1,
+          1
+        ],
+        "totalApplicants": 7
+      },
+      {
+        "bp": 16,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          1,
+          0,
+          0,
+          1
+        ],
+        "totalApplicants": 3
+      },
+      {
+        "bp": 17,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          1,
+          0,
+          2,
+          1
+        ],
+        "totalApplicants": 6
+      },
+      {
+        "bp": 18,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          1,
+          1,
+          5,
+          2
+        ],
+        "totalApplicants": 10
+      },
+      {
+        "bp": 19,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          2,
+          1,
+          1
+        ],
+        "totalApplicants": 4
+      },
+      {
+        "bp": 20,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          2,
+          1,
+          1
+        ],
+        "totalApplicants": 4
+      },
+      {
+        "bp": 21,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          1,
+          1,
+          1,
+          1
+        ],
+        "totalApplicants": 6
+      },
+      {
+        "bp": 23,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          1,
+          0,
+          0
+        ],
+        "totalApplicants": 2
+      },
+      {
+        "bp": 25,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 27,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "totalApplicants": 1
+      }
+    ],
+    "sourcePdf": "https://www.ndow.org/wp-content/uploads/2026/01/Elk-Antlered-ALW-Bonus-Point-and-Application-Trend-NonResident-2025.pdf",
+    "startPage": 7,
+    "endPage": 8
+  },
+  {
+    "state": "NV",
+    "year": 2025,
+    "residency": "NR",
+    "species": "elk",
+    "category": "antlered",
+    "title": "NR Elk Antlered",
+    "units": "104, 121, North portion of 108 (see CR 25-07)",
+    "season": "Nov 06, 2025 - Nov 20, 2025",
+    "quota": 6,
+    "weapon": "Any Legal",
+    "rows": [
+      {
+        "bp": 0,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          60,
+          58,
+          62,
+          153,
+          71
+        ],
+        "totalApplicants": 404
+      },
+      {
+        "bp": 1,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          55,
+          41,
+          45,
+          202,
+          49
+        ],
+        "totalApplicants": 392
+      },
+      {
+        "bp": 2,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          50,
+          54,
+          49,
+          54,
+          37
+        ],
+        "totalApplicants": 244
+      },
+      {
+        "bp": 3,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          46,
+          47,
+          49,
+          40,
+          31
+        ],
+        "totalApplicants": 213
+      },
+      {
+        "bp": 4,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          36,
+          46,
+          41,
+          38,
+          24
+        ],
+        "totalApplicants": 185
+      },
+      {
+        "bp": 5,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          39,
+          37,
+          34,
+          43,
+          31
+        ],
+        "totalApplicants": 184
+      },
+      {
+        "bp": 6,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          31,
+          32,
+          41,
+          31,
+          28
+        ],
+        "totalApplicants": 163
+      },
+      {
+        "bp": 7,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          35,
+          32,
+          25,
+          30,
+          20
+        ],
+        "totalApplicants": 142
+      },
+      {
+        "bp": 8,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          26,
+          37,
+          21,
+          31,
+          18
+        ],
+        "totalApplicants": 133
+      },
+      {
+        "bp": 9,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          17,
+          38,
+          13,
+          27,
+          13
+        ],
+        "totalApplicants": 108
+      },
+      {
+        "bp": 10,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          20,
+          26,
+          14,
+          14,
+          6
+        ],
+        "totalApplicants": 80
+      },
+      {
+        "bp": 11,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          14,
+          22,
+          13,
+          16,
+          13
+        ],
+        "totalApplicants": 78
+      },
+      {
+        "bp": 12,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          13,
+          19,
+          12,
+          10,
+          13
+        ],
+        "totalApplicants": 67
+      },
+      {
+        "bp": 13,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          17,
+          23,
+          16,
+          18,
+          10
+        ],
+        "totalApplicants": 84
+      },
+      {
+        "bp": 14,
+        "successfulByChoice": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          13,
+          20,
+          14,
+          13,
+          6
+        ],
+        "totalApplicants": 66
+      },
+      {
+        "bp": 15,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          9,
+          21,
+          8,
+          9,
+          7
+        ],
+        "totalApplicants": 54
+      },
+      {
+        "bp": 16,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          7,
+          12,
+          16,
+          7,
+          3
+        ],
+        "totalApplicants": 45
+      },
+      {
+        "bp": 17,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          11,
+          13,
+          14,
+          8,
+          7
+        ],
+        "totalApplicants": 53
+      },
+      {
+        "bp": 18,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          11,
+          11,
+          12,
+          11,
+          3
+        ],
+        "totalApplicants": 48
+      },
+      {
+        "bp": 19,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          7,
+          17,
+          3,
+          9
+        ],
+        "totalApplicants": 37
+      },
+      {
+        "bp": 20,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          7,
+          3,
+          13,
+          6,
+          6
+        ],
+        "totalApplicants": 35
+      },
+      {
+        "bp": 21,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          10,
+          9,
+          9,
+          2
+        ],
+        "totalApplicants": 32
+      },
+      {
+        "bp": 22,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          4,
+          10,
+          6,
+          2,
+          5
+        ],
+        "totalApplicants": 27
+      },
+      {
+        "bp": 23,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          5,
+          6,
+          5,
+          2
+        ],
+        "totalApplicants": 18
+      },
+      {
+        "bp": 24,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          3,
+          6,
+          1,
+          2
+        ],
+        "totalApplicants": 12
+      },
+      {
+        "bp": 25,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          3,
+          4,
+          1,
+          3
+        ],
+        "totalApplicants": 14
+      },
+      {
+        "bp": 26,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          1,
+          2,
+          5,
+          0
+        ],
+        "totalApplicants": 9
+      },
+      {
+        "bp": 27,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          2,
+          2,
+          0,
+          1
+        ],
+        "totalApplicants": 5
+      },
+      {
+        "bp": 31,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "totalApplicants": 1
+      }
+    ],
+    "sourcePdf": "https://www.ndow.org/wp-content/uploads/2026/01/Elk-Antlered-ALW-Bonus-Point-and-Application-Trend-NonResident-2025.pdf",
+    "startPage": 8,
+    "endPage": 8
+  },
+  {
+    "state": "NV",
+    "year": 2025,
+    "residency": "NR",
+    "species": "elk",
+    "category": "antlered",
+    "title": "NR Elk Antlered",
+    "units": "104, 121, North portion of 108 (see CR 25-07)",
+    "season": "Nov 21, 2025 - Dec 04, 2025",
+    "quota": 6,
+    "weapon": "Any Legal",
+    "rows": [
+      {
+        "bp": 0,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          25,
+          37,
+          43,
+          46,
+          51
+        ],
+        "totalApplicants": 202
+      },
+      {
+        "bp": 1,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          16,
+          21,
+          32,
+          44,
+          29
+        ],
+        "totalApplicants": 142
+      },
+      {
+        "bp": 2,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          11,
+          28,
+          39,
+          33,
+          46
+        ],
+        "totalApplicants": 157
+      },
+      {
+        "bp": 3,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          23,
+          30,
+          22,
+          26,
+          32
+        ],
+        "totalApplicants": 133
+      },
+      {
+        "bp": 4,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          12,
+          22,
+          26,
+          30,
+          36
+        ],
+        "totalApplicants": 126
+      },
+      {
+        "bp": 5,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          8,
+          17,
+          20,
+          28,
+          21
+        ],
+        "totalApplicants": 94
+      },
+      {
+        "bp": 6,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          9,
+          17,
+          18,
+          22,
+          24
+        ],
+        "totalApplicants": 90
+      },
+      {
+        "bp": 7,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          4,
+          17,
+          16,
+          15,
+          35
+        ],
+        "totalApplicants": 87
+      },
+      {
+        "bp": 8,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          5,
+          13,
+          17,
+          17,
+          21
+        ],
+        "totalApplicants": 73
+      },
+      {
+        "bp": 9,
+        "successfulByChoice": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          5,
+          8,
+          8,
+          11,
+          24
+        ],
+        "totalApplicants": 56
+      },
+      {
+        "bp": 10,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          14,
+          9,
+          7,
+          23
+        ],
+        "totalApplicants": 55
+      },
+      {
+        "bp": 11,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          5,
+          5,
+          13,
+          17
+        ],
+        "totalApplicants": 41
+      },
+      {
+        "bp": 12,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          5,
+          6,
+          12,
+          14
+        ],
+        "totalApplicants": 39
+      },
+      {
+        "bp": 13,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          5,
+          5,
+          11,
+          19
+        ],
+        "totalApplicants": 41
+      },
+      {
+        "bp": 14,
+        "successfulByChoice": [
+          2,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          5,
+          4,
+          10,
+          10
+        ],
+        "totalApplicants": 30
+      },
+      {
+        "bp": 15,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          5,
+          1,
+          4,
+          12
+        ],
+        "totalApplicants": 23
+      },
+      {
+        "bp": 16,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          5,
+          0,
+          5,
+          11
+        ],
+        "totalApplicants": 24
+      },
+      {
+        "bp": 17,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          7,
+          5,
+          4,
+          11
+        ],
+        "totalApplicants": 28
+      },
+      {
+        "bp": 18,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          4,
+          6,
+          9,
+          6
+        ],
+        "totalApplicants": 27
+      },
+      {
+        "bp": 19,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          3,
+          0,
+          8,
+          5
+        ],
+        "totalApplicants": 16
+      },
+      {
+        "bp": 20,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          1,
+          5,
+          4
+        ],
+        "totalApplicants": 11
+      },
+      {
+        "bp": 21,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          1,
+          5,
+          2,
+          4
+        ],
+        "totalApplicants": 14
+      },
+      {
+        "bp": 22,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          1,
+          2,
+          4
+        ],
+        "totalApplicants": 8
+      },
+      {
+        "bp": 23,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          1,
+          0,
+          3
+        ],
+        "totalApplicants": 5
+      },
+      {
+        "bp": 24,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          1,
+          5
+        ],
+        "totalApplicants": 6
+      },
+      {
+        "bp": 25,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          3,
+          1,
+          0,
+          2
+        ],
+        "totalApplicants": 6
+      },
+      {
+        "bp": 26,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          1,
+          0,
+          1
+        ],
+        "totalApplicants": 2
+      },
+      {
+        "bp": 27,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 28,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 31,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "totalApplicants": 1
+      }
+    ],
+    "sourcePdf": "https://www.ndow.org/wp-content/uploads/2026/01/Elk-Antlered-ALW-Bonus-Point-and-Application-Trend-NonResident-2025.pdf",
+    "startPage": 8,
+    "endPage": 9
+  },
+  {
+    "state": "NV",
+    "year": 2025,
+    "residency": "NR",
+    "species": "elk",
+    "category": "antlered",
+    "title": "NR Elk Antlered",
+    "units": "111 - 115",
+    "season": "Nov 06, 2025 - Nov 20, 2025",
+    "quota": 7,
+    "weapon": "Any Legal",
+    "rows": [
+      {
+        "bp": 0,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          506,
+          133,
+          69,
+          58,
+          30
+        ],
+        "totalApplicants": 796
+      },
+      {
+        "bp": 1,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          452,
+          103,
+          50,
+          48,
+          25
+        ],
+        "totalApplicants": 678
+      },
+      {
+        "bp": 2,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          317,
+          91,
+          67,
+          49,
+          25
+        ],
+        "totalApplicants": 549
+      },
+      {
+        "bp": 3,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          282,
+          91,
+          80,
+          49,
+          18
+        ],
+        "totalApplicants": 520
+      },
+      {
+        "bp": 4,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          290,
+          95,
+          65,
+          47,
+          32
+        ],
+        "totalApplicants": 529
+      },
+      {
+        "bp": 5,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          269,
+          95,
+          57,
+          45,
+          29
+        ],
+        "totalApplicants": 495
+      },
+      {
+        "bp": 6,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          276,
+          81,
+          34,
+          42,
+          21
+        ],
+        "totalApplicants": 454
+      },
+      {
+        "bp": 7,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          267,
+          84,
+          56,
+          38,
+          15
+        ],
+        "totalApplicants": 460
+      },
+      {
+        "bp": 8,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          189,
+          77,
+          51,
+          35,
+          14
+        ],
+        "totalApplicants": 366
+      },
+      {
+        "bp": 9,
+        "successfulByChoice": [
+          2,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          176,
+          58,
+          37,
+          17,
+          12
+        ],
+        "totalApplicants": 300
+      },
+      {
+        "bp": 10,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          149,
+          40,
+          25,
+          21,
+          12
+        ],
+        "totalApplicants": 247
+      },
+      {
+        "bp": 11,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          130,
+          50,
+          26,
+          15,
+          12
+        ],
+        "totalApplicants": 233
+      },
+      {
+        "bp": 12,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          109,
+          33,
+          20,
+          9,
+          8
+        ],
+        "totalApplicants": 179
+      },
+      {
+        "bp": 13,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          106,
+          43,
+          23,
+          15,
+          8
+        ],
+        "totalApplicants": 195
+      },
+      {
+        "bp": 14,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          111,
+          21,
+          18,
+          10,
+          5
+        ],
+        "totalApplicants": 165
+      },
+      {
+        "bp": 15,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          81,
+          26,
+          8,
+          10,
+          1
+        ],
+        "totalApplicants": 126
+      },
+      {
+        "bp": 16,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          88,
+          22,
+          8,
+          10,
+          9
+        ],
+        "totalApplicants": 137
+      },
+      {
+        "bp": 17,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          98,
+          27,
+          20,
+          12,
+          3
+        ],
+        "totalApplicants": 160
+      },
+      {
+        "bp": 18,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          67,
+          22,
+          13,
+          10,
+          6
+        ],
+        "totalApplicants": 118
+      },
+      {
+        "bp": 19,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          58,
+          18,
+          15,
+          8,
+          2
+        ],
+        "totalApplicants": 101
+      },
+      {
+        "bp": 20,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          40,
+          20,
+          15,
+          9,
+          5
+        ],
+        "totalApplicants": 89
+      },
+      {
+        "bp": 21,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          69,
+          14,
+          8,
+          3,
+          0
+        ],
+        "totalApplicants": 94
+      },
+      {
+        "bp": 22,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          56,
+          14,
+          7,
+          4,
+          3
+        ],
+        "totalApplicants": 84
+      },
+      {
+        "bp": 23,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          32,
+          13,
+          7,
+          2,
+          2
+        ],
+        "totalApplicants": 56
+      },
+      {
+        "bp": 24,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          17,
+          3,
+          3,
+          0,
+          0
+        ],
+        "totalApplicants": 23
+      },
+      {
+        "bp": 25,
+        "successfulByChoice": [
+          2,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          20,
+          4,
+          3,
+          4,
+          3
+        ],
+        "totalApplicants": 34
+      },
+      {
+        "bp": 26,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          10,
+          3,
+          3,
+          1,
+          0
+        ],
+        "totalApplicants": 17
+      },
+      {
+        "bp": 27,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          5,
+          2,
+          0,
+          1,
+          1
+        ],
+        "totalApplicants": 9
+      },
+      {
+        "bp": 28,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          0,
+          1,
+          0,
+          2
+        ],
+        "totalApplicants": 5
+      },
+      {
+        "bp": 29,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          1,
+          1,
+          1,
+          0
+        ],
+        "totalApplicants": 6
+      },
+      {
+        "bp": 30,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalApplicants": 2
+      },
+      {
+        "bp": 31,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalApplicants": 2
+      }
+    ],
+    "sourcePdf": "https://www.ndow.org/wp-content/uploads/2026/01/Elk-Antlered-ALW-Bonus-Point-and-Application-Trend-NonResident-2025.pdf",
+    "startPage": 9,
+    "endPage": 10
+  },
+  {
+    "state": "NV",
+    "year": 2025,
+    "residency": "NR",
+    "species": "elk",
+    "category": "antlered",
+    "title": "NR Elk Antlered",
+    "units": "111 - 115",
+    "season": "Nov 21, 2025 - Dec 04, 2025",
+    "quota": 7,
+    "weapon": "Any Legal",
+    "rows": [
+      {
+        "bp": 0,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          122,
+          270,
+          98,
+          81,
+          145
+        ],
+        "totalApplicants": 716
+      },
+      {
+        "bp": 1,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          72,
+          176,
+          67,
+          63,
+          198
+        ],
+        "totalApplicants": 576
+      },
+      {
+        "bp": 2,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          68,
+          157,
+          71,
+          76,
+          35
+        ],
+        "totalApplicants": 407
+      },
+      {
+        "bp": 3,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          64,
+          151,
+          71,
+          78,
+          34
+        ],
+        "totalApplicants": 398
+      },
+      {
+        "bp": 4,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          92,
+          143,
+          58,
+          93,
+          30
+        ],
+        "totalApplicants": 416
+      },
+      {
+        "bp": 5,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          70,
+          133,
+          54,
+          62,
+          31
+        ],
+        "totalApplicants": 350
+      },
+      {
+        "bp": 6,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          56,
+          130,
+          65,
+          63,
+          23
+        ],
+        "totalApplicants": 337
+      },
+      {
+        "bp": 7,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          63,
+          132,
+          59,
+          66,
+          32
+        ],
+        "totalApplicants": 352
+      },
+      {
+        "bp": 8,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          56,
+          95,
+          47,
+          47,
+          23
+        ],
+        "totalApplicants": 268
+      },
+      {
+        "bp": 9,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          39,
+          87,
+          45,
+          43,
+          14
+        ],
+        "totalApplicants": 228
+      },
+      {
+        "bp": 10,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          34,
+          58,
+          32,
+          45,
+          15
+        ],
+        "totalApplicants": 184
+      },
+      {
+        "bp": 11,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          23,
+          53,
+          37,
+          37,
+          10
+        ],
+        "totalApplicants": 160
+      },
+      {
+        "bp": 12,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          14,
+          44,
+          27,
+          20,
+          11
+        ],
+        "totalApplicants": 116
+      },
+      {
+        "bp": 13,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          27,
+          47,
+          30,
+          28,
+          13
+        ],
+        "totalApplicants": 145
+      },
+      {
+        "bp": 14,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          6,
+          50,
+          25,
+          23,
+          9
+        ],
+        "totalApplicants": 113
+      },
+      {
+        "bp": 15,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          11,
+          34,
+          17,
+          17,
+          7
+        ],
+        "totalApplicants": 86
+      },
+      {
+        "bp": 16,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          5,
+          33,
+          24,
+          16,
+          10
+        ],
+        "totalApplicants": 88
+      },
+      {
+        "bp": 17,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          15,
+          31,
+          22,
+          22,
+          12
+        ],
+        "totalApplicants": 102
+      },
+      {
+        "bp": 18,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          10,
+          29,
+          13,
+          13,
+          11
+        ],
+        "totalApplicants": 76
+      },
+      {
+        "bp": 19,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          8,
+          27,
+          13,
+          10,
+          2
+        ],
+        "totalApplicants": 60
+      },
+      {
+        "bp": 20,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          13,
+          8,
+          13,
+          7
+        ],
+        "totalApplicants": 44
+      },
+      {
+        "bp": 21,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          10,
+          25,
+          12,
+          9,
+          3
+        ],
+        "totalApplicants": 59
+      },
+      {
+        "bp": 22,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          5,
+          20,
+          8,
+          12,
+          2
+        ],
+        "totalApplicants": 47
+      },
+      {
+        "bp": 23,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          7,
+          9,
+          3,
+          3,
+          4
+        ],
+        "totalApplicants": 26
+      },
+      {
+        "bp": 24,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          9,
+          2,
+          4,
+          1
+        ],
+        "totalApplicants": 16
+      },
+      {
+        "bp": 25,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          5,
+          2,
+          6,
+          0
+        ],
+        "totalApplicants": 15
+      },
+      {
+        "bp": 26,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          2,
+          3,
+          2,
+          1
+        ],
+        "totalApplicants": 9
+      },
+      {
+        "bp": 27,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          2,
+          0,
+          0
+        ],
+        "totalApplicants": 3
+      },
+      {
+        "bp": 28,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 29,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        "totalApplicants": 3
+      },
+      {
+        "bp": 31,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          1,
+          0,
+          0
+        ],
+        "totalApplicants": 2
+      }
+    ],
+    "sourcePdf": "https://www.ndow.org/wp-content/uploads/2026/01/Elk-Antlered-ALW-Bonus-Point-and-Application-Trend-NonResident-2025.pdf",
+    "startPage": 10,
+    "endPage": 11
+  },
+  {
+    "state": "NV",
+    "year": 2025,
+    "residency": "NR",
+    "species": "elk",
+    "category": "antlered",
+    "title": "NR Elk Antlered",
+    "units": "131, 132, South portion of 108 (see CR 25-07)",
+    "season": "Nov 06, 2025 - Nov 20, 2025",
+    "quota": 3,
+    "weapon": "Any Legal",
+    "rows": [
+      {
+        "bp": 0,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          18,
+          23,
+          15,
+          27,
+          27
+        ],
+        "totalApplicants": 110
+      },
+      {
+        "bp": 1,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          6,
+          19,
+          17,
+          14,
+          23
+        ],
+        "totalApplicants": 79
+      },
+      {
+        "bp": 2,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          13,
+          23,
+          16,
+          16,
+          26
+        ],
+        "totalApplicants": 94
+      },
+      {
+        "bp": 3,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          13,
+          18,
+          16,
+          16,
+          23
+        ],
+        "totalApplicants": 86
+      },
+      {
+        "bp": 4,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          9,
+          15,
+          18,
+          19,
+          27
+        ],
+        "totalApplicants": 88
+      },
+      {
+        "bp": 5,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          7,
+          10,
+          12,
+          11,
+          28
+        ],
+        "totalApplicants": 68
+      },
+      {
+        "bp": 6,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          9,
+          12,
+          11,
+          20,
+          13
+        ],
+        "totalApplicants": 65
+      },
+      {
+        "bp": 7,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          5,
+          3,
+          9,
+          12,
+          18
+        ],
+        "totalApplicants": 47
+      },
+      {
+        "bp": 8,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          7,
+          7,
+          4,
+          8
+        ],
+        "totalApplicants": 29
+      },
+      {
+        "bp": 9,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          6,
+          7,
+          6,
+          3,
+          9
+        ],
+        "totalApplicants": 31
+      },
+      {
+        "bp": 10,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          4,
+          6,
+          9,
+          4
+        ],
+        "totalApplicants": 25
+      },
+      {
+        "bp": 11,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          6,
+          4,
+          8
+        ],
+        "totalApplicants": 19
+      },
+      {
+        "bp": 12,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          4,
+          4,
+          8,
+          3
+        ],
+        "totalApplicants": 20
+      },
+      {
+        "bp": 13,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          4,
+          4,
+          2,
+          8
+        ],
+        "totalApplicants": 19
+      },
+      {
+        "bp": 14,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          3,
+          4,
+          2
+        ],
+        "totalApplicants": 9
+      },
+      {
+        "bp": 15,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          2,
+          3,
+          4,
+          3
+        ],
+        "totalApplicants": 13
+      },
+      {
+        "bp": 16,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          3,
+          2
+        ],
+        "totalApplicants": 5
+      },
+      {
+        "bp": 17,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          3,
+          0,
+          2,
+          7
+        ],
+        "totalApplicants": 12
+      },
+      {
+        "bp": 18,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          2,
+          1,
+          1,
+          1
+        ],
+        "totalApplicants": 7
+      },
+      {
+        "bp": 19,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          1,
+          2,
+          3
+        ],
+        "totalApplicants": 6
+      },
+      {
+        "bp": 20,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          2,
+          2,
+          2,
+          2
+        ],
+        "totalApplicants": 9
+      },
+      {
+        "bp": 21,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          1,
+          0,
+          4
+        ],
+        "totalApplicants": 5
+      },
+      {
+        "bp": 22,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          1,
+          2,
+          2,
+          1
+        ],
+        "totalApplicants": 7
+      },
+      {
+        "bp": 23,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 25,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 26,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          0,
+          1,
+          1
+        ],
+        "totalApplicants": 3
+      },
+      {
+        "bp": 28,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 30,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "totalApplicants": 1
+      }
+    ],
+    "sourcePdf": "https://www.ndow.org/wp-content/uploads/2026/01/Elk-Antlered-ALW-Bonus-Point-and-Application-Trend-NonResident-2025.pdf",
+    "startPage": 11,
+    "endPage": 11
+  },
+  {
+    "state": "NV",
+    "year": 2025,
+    "residency": "NR",
+    "species": "elk",
+    "category": "antlered",
+    "title": "NR Elk Antlered",
+    "units": "131, 132, South portion of 108 (see CR 25-07)",
+    "season": "Nov 21, 2025 - Dec 04, 2025",
+    "quota": 3,
+    "weapon": "Any Legal",
+    "rows": [
+      {
+        "bp": 0,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          6,
+          18,
+          9,
+          22,
+          16
+        ],
+        "totalApplicants": 71
+      },
+      {
+        "bp": 1,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          9,
+          11,
+          7,
+          16,
+          14
+        ],
+        "totalApplicants": 57
+      },
+      {
+        "bp": 2,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          4,
+          3,
+          5,
+          19,
+          12
+        ],
+        "totalApplicants": 43
+      },
+      {
+        "bp": 3,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          5,
+          8,
+          6,
+          9,
+          8
+        ],
+        "totalApplicants": 36
+      },
+      {
+        "bp": 4,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          8,
+          3,
+          6,
+          12,
+          12
+        ],
+        "totalApplicants": 41
+      },
+      {
+        "bp": 5,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          7,
+          5,
+          6,
+          8,
+          6
+        ],
+        "totalApplicants": 32
+      },
+      {
+        "bp": 6,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          1,
+          7,
+          7,
+          11
+        ],
+        "totalApplicants": 29
+      },
+      {
+        "bp": 7,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          2,
+          1,
+          9,
+          8
+        ],
+        "totalApplicants": 22
+      },
+      {
+        "bp": 8,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          4,
+          1,
+          5,
+          2,
+          3
+        ],
+        "totalApplicants": 15
+      },
+      {
+        "bp": 9,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          2,
+          2,
+          1,
+          6
+        ],
+        "totalApplicants": 13
+      },
+      {
+        "bp": 10,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          2,
+          1,
+          3,
+          4
+        ],
+        "totalApplicants": 10
+      },
+      {
+        "bp": 11,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          0,
+          1,
+          0,
+          4
+        ],
+        "totalApplicants": 6
+      },
+      {
+        "bp": 12,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          5,
+          0,
+          2
+        ],
+        "totalApplicants": 7
+      },
+      {
+        "bp": 13,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          2,
+          0,
+          2,
+          3
+        ],
+        "totalApplicants": 7
+      },
+      {
+        "bp": 14,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          1,
+          0,
+          3
+        ],
+        "totalApplicants": 4
+      },
+      {
+        "bp": 15,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 16,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          2,
+          1,
+          2
+        ],
+        "totalApplicants": 5
+      },
+      {
+        "bp": 17,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          2,
+          0,
+          1
+        ],
+        "totalApplicants": 3
+      },
+      {
+        "bp": 18,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          0,
+          0,
+          1
+        ],
+        "totalApplicants": 2
+      },
+      {
+        "bp": 19,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          0,
+          0,
+          2
+        ],
+        "totalApplicants": 3
+      },
+      {
+        "bp": 20,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          0,
+          1,
+          0
+        ],
+        "totalApplicants": 2
+      },
+      {
+        "bp": 22,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          0,
+          2
+        ],
+        "totalApplicants": 2
+      },
+      {
+        "bp": 23,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          1,
+          1,
+          0
+        ],
+        "totalApplicants": 2
+      },
+      {
+        "bp": 25,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "totalApplicants": 1
+      }
+    ],
+    "sourcePdf": "https://www.ndow.org/wp-content/uploads/2026/01/Elk-Antlered-ALW-Bonus-Point-and-Application-Trend-NonResident-2025.pdf",
+    "startPage": 11,
+    "endPage": 12
+  },
+  {
+    "state": "NV",
+    "year": 2025,
+    "residency": "NR",
+    "species": "elk",
+    "category": "antlered",
+    "title": "NR Elk Antlered",
+    "units": "161 - 164, 171 - 173",
+    "season": "Nov 06, 2025 - Nov 20, 2025",
+    "quota": 3,
+    "weapon": "Any Legal",
+    "rows": [
+      {
+        "bp": 0,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          28,
+          13,
+          28,
+          20,
+          15
+        ],
+        "totalApplicants": 104
+      },
+      {
+        "bp": 1,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          22,
+          16,
+          12,
+          16,
+          9
+        ],
+        "totalApplicants": 75
+      },
+      {
+        "bp": 2,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          17,
+          12,
+          19,
+          15,
+          15
+        ],
+        "totalApplicants": 78
+      },
+      {
+        "bp": 3,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          16,
+          12,
+          13,
+          9,
+          15
+        ],
+        "totalApplicants": 65
+      },
+      {
+        "bp": 4,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          20,
+          9,
+          18,
+          5,
+          12
+        ],
+        "totalApplicants": 64
+      },
+      {
+        "bp": 5,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          18,
+          15,
+          18,
+          20,
+          11
+        ],
+        "totalApplicants": 82
+      },
+      {
+        "bp": 6,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          8,
+          11,
+          11,
+          9,
+          12
+        ],
+        "totalApplicants": 51
+      },
+      {
+        "bp": 7,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          10,
+          10,
+          8,
+          10,
+          11
+        ],
+        "totalApplicants": 49
+      },
+      {
+        "bp": 8,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          15,
+          12,
+          11,
+          4,
+          10
+        ],
+        "totalApplicants": 52
+      },
+      {
+        "bp": 9,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          6,
+          3,
+          6,
+          7,
+          5
+        ],
+        "totalApplicants": 27
+      },
+      {
+        "bp": 10,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          5,
+          6,
+          8,
+          2,
+          5
+        ],
+        "totalApplicants": 26
+      },
+      {
+        "bp": 11,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          2,
+          5,
+          6,
+          2
+        ],
+        "totalApplicants": 18
+      },
+      {
+        "bp": 12,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          3,
+          3,
+          8,
+          3
+        ],
+        "totalApplicants": 20
+      },
+      {
+        "bp": 13,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          5,
+          2,
+          3,
+          0,
+          3
+        ],
+        "totalApplicants": 13
+      },
+      {
+        "bp": 14,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          2,
+          3,
+          3,
+          1
+        ],
+        "totalApplicants": 11
+      },
+      {
+        "bp": 15,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          0,
+          2,
+          2,
+          3
+        ],
+        "totalApplicants": 8
+      },
+      {
+        "bp": 16,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          1,
+          3
+        ],
+        "totalApplicants": 4
+      },
+      {
+        "bp": 17,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          0,
+          1,
+          2,
+          0
+        ],
+        "totalApplicants": 5
+      },
+      {
+        "bp": 18,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          1,
+          2,
+          1,
+          0
+        ],
+        "totalApplicants": 5
+      },
+      {
+        "bp": 19,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          1,
+          1,
+          0,
+          0
+        ],
+        "totalApplicants": 4
+      },
+      {
+        "bp": 20,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          1,
+          0,
+          1,
+          1
+        ],
+        "totalApplicants": 5
+      },
+      {
+        "bp": 21,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          2,
+          0
+        ],
+        "totalApplicants": 2
+      },
+      {
+        "bp": 22,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 23,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          1,
+          0,
+          0,
+          1
+        ],
+        "totalApplicants": 3
+      },
+      {
+        "bp": 24,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          0,
+          1,
+          0,
+          0
+        ],
+        "totalApplicants": 2
+      },
+      {
+        "bp": 25,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 26,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 30,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalApplicants": 1
+      }
+    ],
+    "sourcePdf": "https://www.ndow.org/wp-content/uploads/2026/01/Elk-Antlered-ALW-Bonus-Point-and-Application-Trend-NonResident-2025.pdf",
+    "startPage": 12,
+    "endPage": 13
+  },
+  {
+    "state": "NV",
+    "year": 2025,
+    "residency": "NR",
+    "species": "elk",
+    "category": "antlered",
+    "title": "NR Elk Antlered",
+    "units": "161 - 164, 171 - 173",
+    "season": "Nov 21, 2025 - Dec 04, 2025",
+    "quota": 4,
+    "weapon": "Any Legal",
+    "rows": [
+      {
+        "bp": 0,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          13,
+          27,
+          11,
+          13,
+          22
+        ],
+        "totalApplicants": 86
+      },
+      {
+        "bp": 1,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          10,
+          19,
+          13,
+          11,
+          20
+        ],
+        "totalApplicants": 73
+      },
+      {
+        "bp": 2,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          9,
+          15,
+          13,
+          17,
+          19
+        ],
+        "totalApplicants": 73
+      },
+      {
+        "bp": 3,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          9,
+          5,
+          13,
+          12,
+          15
+        ],
+        "totalApplicants": 54
+      },
+      {
+        "bp": 4,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          7,
+          23,
+          15,
+          6,
+          16
+        ],
+        "totalApplicants": 67
+      },
+      {
+        "bp": 5,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          10,
+          11,
+          7,
+          8,
+          14
+        ],
+        "totalApplicants": 50
+      },
+      {
+        "bp": 6,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          10,
+          9,
+          8,
+          11,
+          11
+        ],
+        "totalApplicants": 49
+      },
+      {
+        "bp": 7,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          6,
+          9,
+          9,
+          6,
+          11
+        ],
+        "totalApplicants": 41
+      },
+      {
+        "bp": 8,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          4,
+          9,
+          5,
+          7,
+          5
+        ],
+        "totalApplicants": 30
+      },
+      {
+        "bp": 9,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          3,
+          5,
+          1,
+          4
+        ],
+        "totalApplicants": 16
+      },
+      {
+        "bp": 10,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          9,
+          2,
+          6,
+          2
+        ],
+        "totalApplicants": 21
+      },
+      {
+        "bp": 11,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          1,
+          2,
+          3,
+          3
+        ],
+        "totalApplicants": 12
+      },
+      {
+        "bp": 12,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          4,
+          3,
+          3,
+          2,
+          1
+        ],
+        "totalApplicants": 13
+      },
+      {
+        "bp": 13,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          2,
+          3,
+          2,
+          1
+        ],
+        "totalApplicants": 8
+      },
+      {
+        "bp": 14,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "totalApplicants": 5
+      },
+      {
+        "bp": 15,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          1,
+          0,
+          3
+        ],
+        "totalApplicants": 5
+      },
+      {
+        "bp": 16,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          2,
+          0,
+          0
+        ],
+        "totalApplicants": 2
+      },
+      {
+        "bp": 17,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          1,
+          1,
+          1
+        ],
+        "totalApplicants": 4
+      },
+      {
+        "bp": 18,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          4,
+          0,
+          2
+        ],
+        "totalApplicants": 6
+      },
+      {
+        "bp": 19,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          0,
+          0,
+          2
+        ],
+        "totalApplicants": 3
+      },
+      {
+        "bp": 20,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 21,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 22,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 23,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          0,
+          0,
+          1,
+          0
+        ],
+        "totalApplicants": 2
+      },
+      {
+        "bp": 24,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 25,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "totalApplicants": 1
+      }
+    ],
+    "sourcePdf": "https://www.ndow.org/wp-content/uploads/2026/01/Elk-Antlered-ALW-Bonus-Point-and-Application-Trend-NonResident-2025.pdf",
+    "startPage": 13,
+    "endPage": 13
+  },
+  {
+    "state": "NV",
+    "year": 2025,
+    "residency": "NR",
+    "species": "elk",
+    "category": "antlered",
+    "title": "NR Elk Antlered",
+    "units": "221 - 223",
+    "season": "Nov 06, 2025 - Nov 20, 2025",
+    "quota": 7,
+    "weapon": "Any Legal",
+    "rows": [
+      {
+        "bp": 0,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          119,
+          224,
+          204,
+          61,
+          67
+        ],
+        "totalApplicants": 675
+      },
+      {
+        "bp": 1,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          74,
+          268,
+          190,
+          46,
+          45
+        ],
+        "totalApplicants": 623
+      },
+      {
+        "bp": 2,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          106,
+          129,
+          152,
+          36,
+          32
+        ],
+        "totalApplicants": 455
+      },
+      {
+        "bp": 3,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          99,
+          117,
+          119,
+          48,
+          42
+        ],
+        "totalApplicants": 425
+      },
+      {
+        "bp": 4,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          75,
+          116,
+          131,
+          40,
+          45
+        ],
+        "totalApplicants": 407
+      },
+      {
+        "bp": 5,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          84,
+          115,
+          120,
+          41,
+          33
+        ],
+        "totalApplicants": 393
+      },
+      {
+        "bp": 6,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          74,
+          119,
+          102,
+          33,
+          29
+        ],
+        "totalApplicants": 357
+      },
+      {
+        "bp": 7,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          72,
+          124,
+          128,
+          38,
+          30
+        ],
+        "totalApplicants": 392
+      },
+      {
+        "bp": 8,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          63,
+          67,
+          103,
+          37,
+          33
+        ],
+        "totalApplicants": 303
+      },
+      {
+        "bp": 9,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          46,
+          57,
+          96,
+          32,
+          14
+        ],
+        "totalApplicants": 245
+      },
+      {
+        "bp": 10,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          31,
+          52,
+          64,
+          19,
+          27
+        ],
+        "totalApplicants": 193
+      },
+      {
+        "bp": 11,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          44,
+          50,
+          52,
+          21,
+          14
+        ],
+        "totalApplicants": 181
+      },
+      {
+        "bp": 12,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          37,
+          51,
+          47,
+          16,
+          7
+        ],
+        "totalApplicants": 158
+      },
+      {
+        "bp": 13,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          25,
+          40,
+          54,
+          21,
+          17
+        ],
+        "totalApplicants": 157
+      },
+      {
+        "bp": 14,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          33,
+          44,
+          38,
+          16,
+          11
+        ],
+        "totalApplicants": 142
+      },
+      {
+        "bp": 15,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          16,
+          27,
+          39,
+          13,
+          8
+        ],
+        "totalApplicants": 103
+      },
+      {
+        "bp": 16,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          23,
+          38,
+          31,
+          11,
+          6
+        ],
+        "totalApplicants": 109
+      },
+      {
+        "bp": 17,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          24,
+          40,
+          32,
+          14,
+          11
+        ],
+        "totalApplicants": 121
+      },
+      {
+        "bp": 18,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          22,
+          27,
+          25,
+          10,
+          8
+        ],
+        "totalApplicants": 92
+      },
+      {
+        "bp": 19,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          19,
+          21,
+          21,
+          12,
+          2
+        ],
+        "totalApplicants": 75
+      },
+      {
+        "bp": 20,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          19,
+          17,
+          11,
+          7,
+          7
+        ],
+        "totalApplicants": 61
+      },
+      {
+        "bp": 21,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          13,
+          23,
+          18,
+          8,
+          3
+        ],
+        "totalApplicants": 65
+      },
+      {
+        "bp": 22,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          17,
+          17,
+          23,
+          9,
+          5
+        ],
+        "totalApplicants": 71
+      },
+      {
+        "bp": 23,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          13,
+          8,
+          13,
+          6,
+          1
+        ],
+        "totalApplicants": 41
+      },
+      {
+        "bp": 24,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          7,
+          5,
+          5,
+          5,
+          2
+        ],
+        "totalApplicants": 24
+      },
+      {
+        "bp": 25,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          6,
+          7,
+          4,
+          3
+        ],
+        "totalApplicants": 20
+      },
+      {
+        "bp": 26,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          5,
+          6,
+          1,
+          1,
+          0
+        ],
+        "totalApplicants": 13
+      },
+      {
+        "bp": 27,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          4,
+          0,
+          0,
+          1
+        ],
+        "totalApplicants": 7
+      },
+      {
+        "bp": 28,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        "totalApplicants": 4
+      },
+      {
+        "bp": 29,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          0,
+          2,
+          0,
+          0
+        ],
+        "totalApplicants": 4
+      },
+      {
+        "bp": 30,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 31,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          1,
+          0,
+          0,
+          0
+        ],
+        "totalApplicants": 3
+      }
+    ],
+    "sourcePdf": "https://www.ndow.org/wp-content/uploads/2026/01/Elk-Antlered-ALW-Bonus-Point-and-Application-Trend-NonResident-2025.pdf",
+    "startPage": 13,
+    "endPage": 14
+  },
+  {
+    "state": "NV",
+    "year": 2025,
+    "residency": "NR",
+    "species": "elk",
+    "category": "antlered",
+    "title": "NR Elk Antlered",
+    "units": "221 - 223",
+    "season": "Nov 21, 2025 - Dec 04, 2025",
+    "quota": 8,
+    "weapon": "Any Legal",
+    "rows": [
+      {
+        "bp": 0,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          54,
+          88,
+          159,
+          193,
+          63
+        ],
+        "totalApplicants": 557
+      },
+      {
+        "bp": 1,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          34,
+          71,
+          204,
+          150,
+          52
+        ],
+        "totalApplicants": 511
+      },
+      {
+        "bp": 2,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          31,
+          65,
+          49,
+          131,
+          37
+        ],
+        "totalApplicants": 313
+      },
+      {
+        "bp": 3,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          28,
+          66,
+          51,
+          121,
+          43
+        ],
+        "totalApplicants": 309
+      },
+      {
+        "bp": 4,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          37,
+          65,
+          75,
+          93,
+          34
+        ],
+        "totalApplicants": 304
+      },
+      {
+        "bp": 5,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          24,
+          59,
+          49,
+          101,
+          33
+        ],
+        "totalApplicants": 266
+      },
+      {
+        "bp": 6,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          19,
+          45,
+          47,
+          102,
+          27
+        ],
+        "totalApplicants": 240
+      },
+      {
+        "bp": 7,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          16,
+          48,
+          37,
+          110,
+          36
+        ],
+        "totalApplicants": 247
+      },
+      {
+        "bp": 8,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          17,
+          42,
+          28,
+          70,
+          27
+        ],
+        "totalApplicants": 184
+      },
+      {
+        "bp": 9,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          12,
+          22,
+          27,
+          64,
+          21
+        ],
+        "totalApplicants": 146
+      },
+      {
+        "bp": 10,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          17,
+          23,
+          20,
+          50,
+          10
+        ],
+        "totalApplicants": 120
+      },
+      {
+        "bp": 11,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          5,
+          22,
+          17,
+          39,
+          12
+        ],
+        "totalApplicants": 95
+      },
+      {
+        "bp": 12,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          7,
+          17,
+          9,
+          47,
+          14
+        ],
+        "totalApplicants": 94
+      },
+      {
+        "bp": 13,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          7,
+          18,
+          9,
+          45,
+          18
+        ],
+        "totalApplicants": 97
+      },
+      {
+        "bp": 14,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          7,
+          13,
+          16,
+          34,
+          13
+        ],
+        "totalApplicants": 83
+      },
+      {
+        "bp": 15,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          10,
+          8,
+          21,
+          9
+        ],
+        "totalApplicants": 50
+      },
+      {
+        "bp": 16,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          8,
+          8,
+          33,
+          8
+        ],
+        "totalApplicants": 60
+      },
+      {
+        "bp": 17,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          15,
+          6,
+          28,
+          12
+        ],
+        "totalApplicants": 62
+      },
+      {
+        "bp": 18,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          4,
+          13,
+          6,
+          16,
+          5
+        ],
+        "totalApplicants": 44
+      },
+      {
+        "bp": 19,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          4,
+          4,
+          9,
+          21,
+          7
+        ],
+        "totalApplicants": 45
+      },
+      {
+        "bp": 20,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          6,
+          5,
+          7,
+          4
+        ],
+        "totalApplicants": 24
+      },
+      {
+        "bp": 21,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          4,
+          7,
+          6,
+          19,
+          2
+        ],
+        "totalApplicants": 38
+      },
+      {
+        "bp": 22,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          5,
+          6,
+          11,
+          5
+        ],
+        "totalApplicants": 28
+      },
+      {
+        "bp": 23,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          8,
+          3,
+          6,
+          2
+        ],
+        "totalApplicants": 19
+      },
+      {
+        "bp": 24,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          4,
+          4,
+          0
+        ],
+        "totalApplicants": 8
+      },
+      {
+        "bp": 25,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          1,
+          3
+        ],
+        "totalApplicants": 4
+      },
+      {
+        "bp": 26,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          1,
+          3,
+          0,
+          2
+        ],
+        "totalApplicants": 7
+      },
+      {
+        "bp": 27,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          0,
+          1,
+          0
+        ],
+        "totalApplicants": 2
+      },
+      {
+        "bp": 28,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          2,
+          0
+        ],
+        "totalApplicants": 2
+      },
+      {
+        "bp": 29,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 31,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          2,
+          0,
+          0
+        ],
+        "totalApplicants": 3
+      }
+    ],
+    "sourcePdf": "https://www.ndow.org/wp-content/uploads/2026/01/Elk-Antlered-ALW-Bonus-Point-and-Application-Trend-NonResident-2025.pdf",
+    "startPage": 14,
+    "endPage": 15
+  },
+  {
+    "state": "NV",
+    "year": 2025,
+    "residency": "NR",
+    "species": "elk",
+    "category": "antlered",
+    "title": "NR Elk Antlered",
+    "units": "231",
+    "season": "Nov 06, 2025 - Nov 20, 2025",
+    "quota": 3,
+    "weapon": "Any Legal",
+    "rows": [
+      {
+        "bp": 0,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          59,
+          63,
+          77,
+          43,
+          67
+        ],
+        "totalApplicants": 309
+      },
+      {
+        "bp": 1,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          52,
+          33,
+          54,
+          37,
+          39
+        ],
+        "totalApplicants": 215
+      },
+      {
+        "bp": 2,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          39,
+          52,
+          62,
+          21,
+          50
+        ],
+        "totalApplicants": 224
+      },
+      {
+        "bp": 3,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          45,
+          37,
+          61,
+          28,
+          39
+        ],
+        "totalApplicants": 210
+      },
+      {
+        "bp": 4,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          46,
+          41,
+          57,
+          24,
+          35
+        ],
+        "totalApplicants": 203
+      },
+      {
+        "bp": 5,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          34,
+          34,
+          60,
+          21,
+          40
+        ],
+        "totalApplicants": 189
+      },
+      {
+        "bp": 6,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          43,
+          32,
+          53,
+          27,
+          31
+        ],
+        "totalApplicants": 186
+      },
+      {
+        "bp": 7,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          26,
+          28,
+          73,
+          24,
+          42
+        ],
+        "totalApplicants": 193
+      },
+      {
+        "bp": 8,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          33,
+          28,
+          35,
+          15,
+          29
+        ],
+        "totalApplicants": 140
+      },
+      {
+        "bp": 9,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          21,
+          15,
+          21,
+          25,
+          20
+        ],
+        "totalApplicants": 102
+      },
+      {
+        "bp": 10,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          12,
+          17,
+          22,
+          15,
+          16
+        ],
+        "totalApplicants": 82
+      },
+      {
+        "bp": 11,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          10,
+          14,
+          34,
+          8,
+          17
+        ],
+        "totalApplicants": 83
+      },
+      {
+        "bp": 12,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          16,
+          10,
+          17,
+          10,
+          7
+        ],
+        "totalApplicants": 60
+      },
+      {
+        "bp": 13,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          13,
+          10,
+          16,
+          15,
+          9
+        ],
+        "totalApplicants": 63
+      },
+      {
+        "bp": 14,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          18,
+          16,
+          7,
+          18
+        ],
+        "totalApplicants": 62
+      },
+      {
+        "bp": 15,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          4,
+          8,
+          11,
+          4,
+          10
+        ],
+        "totalApplicants": 37
+      },
+      {
+        "bp": 16,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          8,
+          9,
+          19,
+          10,
+          10
+        ],
+        "totalApplicants": 56
+      },
+      {
+        "bp": 17,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          12,
+          10,
+          15,
+          8,
+          8
+        ],
+        "totalApplicants": 53
+      },
+      {
+        "bp": 18,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          7,
+          10,
+          16,
+          3,
+          6
+        ],
+        "totalApplicants": 42
+      },
+      {
+        "bp": 19,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          9,
+          5,
+          6,
+          3,
+          3
+        ],
+        "totalApplicants": 26
+      },
+      {
+        "bp": 20,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          9,
+          8,
+          3,
+          5
+        ],
+        "totalApplicants": 27
+      },
+      {
+        "bp": 21,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          8,
+          16,
+          4,
+          4
+        ],
+        "totalApplicants": 34
+      },
+      {
+        "bp": 22,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          5,
+          9,
+          15,
+          7,
+          7
+        ],
+        "totalApplicants": 43
+      },
+      {
+        "bp": 23,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          8,
+          7,
+          4,
+          5
+        ],
+        "totalApplicants": 27
+      },
+      {
+        "bp": 24,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          0,
+          0,
+          1
+        ],
+        "totalApplicants": 2
+      },
+      {
+        "bp": 25,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          2,
+          2,
+          2,
+          3
+        ],
+        "totalApplicants": 11
+      },
+      {
+        "bp": 26,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          4,
+          0,
+          0
+        ],
+        "totalApplicants": 5
+      },
+      {
+        "bp": 27,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          3,
+          1,
+          1
+        ],
+        "totalApplicants": 5
+      },
+      {
+        "bp": 28,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 29,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          3,
+          0,
+          1,
+          1
+        ],
+        "totalApplicants": 5
+      },
+      {
+        "bp": 30,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          0,
+          1,
+          0
+        ],
+        "totalApplicants": 2
+      },
+      {
+        "bp": 31,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          1,
+          1,
+          0,
+          0
+        ],
+        "totalApplicants": 2
+      }
+    ],
+    "sourcePdf": "https://www.ndow.org/wp-content/uploads/2026/01/Elk-Antlered-ALW-Bonus-Point-and-Application-Trend-NonResident-2025.pdf",
+    "startPage": 15,
+    "endPage": 16
+  },
+  {
+    "state": "NV",
+    "year": 2025,
+    "residency": "NR",
+    "species": "elk",
+    "category": "antlered",
+    "title": "NR Elk Antlered",
+    "units": "231",
+    "season": "Nov 21, 2025 - Dec 04, 2025",
+    "quota": 4,
+    "weapon": "Any Legal",
+    "rows": [
+      {
+        "bp": 0,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          42,
+          45,
+          50,
+          61,
+          58
+        ],
+        "totalApplicants": 256
+      },
+      {
+        "bp": 1,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          29,
+          34,
+          25,
+          58,
+          55
+        ],
+        "totalApplicants": 201
+      },
+      {
+        "bp": 2,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          32,
+          29,
+          26,
+          42,
+          54
+        ],
+        "totalApplicants": 183
+      },
+      {
+        "bp": 3,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          23,
+          24,
+          22,
+          39,
+          50
+        ],
+        "totalApplicants": 158
+      },
+      {
+        "bp": 4,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          28,
+          40,
+          32,
+          43,
+          42
+        ],
+        "totalApplicants": 185
+      },
+      {
+        "bp": 5,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          14,
+          27,
+          30,
+          40,
+          48
+        ],
+        "totalApplicants": 159
+      },
+      {
+        "bp": 6,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          8,
+          19,
+          24,
+          34,
+          44
+        ],
+        "totalApplicants": 129
+      },
+      {
+        "bp": 7,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          19,
+          20,
+          11,
+          30,
+          37
+        ],
+        "totalApplicants": 117
+      },
+      {
+        "bp": 8,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          11,
+          32,
+          21,
+          30,
+          21
+        ],
+        "totalApplicants": 115
+      },
+      {
+        "bp": 9,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          8,
+          17,
+          13,
+          17,
+          30
+        ],
+        "totalApplicants": 85
+      },
+      {
+        "bp": 10,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          5,
+          13,
+          15,
+          16,
+          16
+        ],
+        "totalApplicants": 65
+      },
+      {
+        "bp": 11,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          7,
+          5,
+          24,
+          11
+        ],
+        "totalApplicants": 49
+      },
+      {
+        "bp": 12,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          11,
+          6,
+          10,
+          14
+        ],
+        "totalApplicants": 43
+      },
+      {
+        "bp": 13,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          7,
+          5,
+          10,
+          5,
+          16
+        ],
+        "totalApplicants": 43
+      },
+      {
+        "bp": 14,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          2,
+          6,
+          14,
+          17
+        ],
+        "totalApplicants": 42
+      },
+      {
+        "bp": 15,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          5,
+          3,
+          2,
+          4,
+          14
+        ],
+        "totalApplicants": 28
+      },
+      {
+        "bp": 16,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          4,
+          4,
+          7,
+          8
+        ],
+        "totalApplicants": 26
+      },
+      {
+        "bp": 17,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          4,
+          6,
+          13,
+          8
+        ],
+        "totalApplicants": 34
+      },
+      {
+        "bp": 18,
+        "successfulByChoice": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          3,
+          4,
+          3,
+          9,
+          7
+        ],
+        "totalApplicants": 26
+      },
+      {
+        "bp": 19,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          7,
+          3,
+          6,
+          8
+        ],
+        "totalApplicants": 26
+      },
+      {
+        "bp": 20,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          2,
+          0,
+          1,
+          6,
+          1
+        ],
+        "totalApplicants": 10
+      },
+      {
+        "bp": 21,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          3,
+          1,
+          11,
+          7
+        ],
+        "totalApplicants": 23
+      },
+      {
+        "bp": 22,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          4,
+          1,
+          9,
+          4
+        ],
+        "totalApplicants": 18
+      },
+      {
+        "bp": 23,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          0,
+          2,
+          1,
+          0
+        ],
+        "totalApplicants": 4
+      },
+      {
+        "bp": 25,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          2,
+          0
+        ],
+        "totalApplicants": 2
+      },
+      {
+        "bp": 26,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          0,
+          0,
+          1,
+          0
+        ],
+        "totalApplicants": 2
+      },
+      {
+        "bp": 27,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "totalApplicants": 1
+      },
+      {
+        "bp": 29,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "totalApplicants": 2
+      },
+      {
+        "bp": 31,
+        "successfulByChoice": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalByChoice": [
+          0,
+          0,
+          0,
+          2,
+          0
+        ],
+        "totalApplicants": 2
+      }
+    ],
+    "sourcePdf": "https://www.ndow.org/wp-content/uploads/2026/01/Elk-Antlered-ALW-Bonus-Point-and-Application-Trend-NonResident-2025.pdf",
+    "startPage": 16,
+    "endPage": 16
+  }
+]

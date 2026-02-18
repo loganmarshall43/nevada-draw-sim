@@ -1,0 +1,20 @@
+{
+  "state": "NV",
+  "year": 2025,
+  "species": "elk",
+  "huntCode": "ELK-ARCH-061",
+  "choice": 1,
+  "rows": [
+    { "bp": 0, "applicants": 1200, "successful": 3 },
+    { "bp": 1, "applicants": 980, "successful": 4 },
+    { "bp": 2, "applicants": 760, "successful": 6 },
+    { "bp": 3, "applicants": 540, "successful": 7 },
+    { "bp": 4, "applicants": 390, "successful": 9 },
+    { "bp": 5, "applicants": 260, "successful": 10 },
+    { "bp": 6, "applicants": 180, "successful": 11 },
+    { "bp": 7, "applicants": 120, "successful": 12 },
+    { "bp": 8, "applicants": 80, "successful": 12 },
+    { "bp": 9, "applicants": 55, "successful": 12 },
+    { "bp": 10, "applicants": 35, "successful": 12 }
+  ]
+}
