@@ -287,7 +287,7 @@ export default function DashboardPage() {
 
         <div>
           <label>
-            My bonus points ({profileSpecies})
+            Points
             <input
               type="number"
               min={0}
